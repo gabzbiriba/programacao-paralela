@@ -1,4 +1,4 @@
-#Programação Paralela 💻⚡
+# Programação Paralela 💻⚡
 
 Repositório reservado para as atividades da disciplina de Programação Paralela
 
